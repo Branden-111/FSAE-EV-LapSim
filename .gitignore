@@ -1,0 +1,14 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.slxc
+slprj/
+codegen/
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+# Local scratch
+scratch/
+logged_data.xlsx
